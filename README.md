@@ -27,6 +27,8 @@ Turn up to 1 - 10 reading and will be 100ms, 200ms, 300ms... 1000ms ( 1 second )
 
 Can use this to help let car roll out a few feet before giving it the thunder!
 
+https://www.youtube.com/watch?v=A7G-VhyzQ44
+
 Shopping list
 
 1) 1x Seeeduino XIAO or similar microcontroller. This was use because it is small and uses USB-C port. $13
@@ -41,3 +43,4 @@ Shopping list
 10) Breadboard/soldering/project box/ect how ever you desire to assemble.
 
 
+Diagram coming soon.
